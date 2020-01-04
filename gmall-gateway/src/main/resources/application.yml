@@ -26,5 +26,5 @@ spring:
             - Path=/ums/**
     nacos:
       discovery:
-        server-addr: 123.56.130.207:8848
+        server-addr: 127.0.0.1:8848
 
